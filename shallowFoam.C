@@ -29,7 +29,7 @@ Description
     Transient solver for depth averaged shallow water equations.
 
 Author
-    KM-Turbulenz GmbH, 2009
+    KM-Turbulenz GmbH, 2009 (www.km-turbulenz.de)
     Florian Mintgen, 2012
 
 \*---------------------------------------------------------------------------*/
