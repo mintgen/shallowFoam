@@ -19,3 +19,8 @@ OpenFOAM-based solver for 2D shallow water equations
   - Works in parallel
   - Captures wet-dry fronts
   - Mesh should have a height of 1 m in z-direction (see tutorials)
+
+  - Main advantages over shallowWaterFoam (the shallow water solver in the official OpenFOAM repository):
+    - Explicit formulation of flow depth and bottom elevation
+    - Bottom stresses / surface roughness taken into account
+    - Custom  boundary consitions well suited for river hydraulics
