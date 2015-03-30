@@ -23,4 +23,4 @@ OpenFOAM-based solver for 2D shallow water equations
   - Main advantages over shallowWaterFoam (the shallow water solver in the official OpenFOAM repository):
     - Explicit formulation of flow depth and bottom elevation
     - Bottom stresses / surface roughness taken into account
-    - Custom  boundary consitions well suited for river hydraulics
+    - Custom  boundary conditions well suited for river hydraulics
