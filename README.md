@@ -20,3 +20,8 @@ OpenFOAM-based solver for 2D shallow water equations
   - Captures wet-dry fronts
   - Mesh should have a height of 1 m in z-direction (see tutorials)
 
+  - Bottom stresses are modeled via Strickler-equation
+  - Turbulence is captured by an eddy viscosity model
+  - Works in parallel
+  - Captures wet-dry fronts
+  - Mesh should have a height of 1 m in z-direction (see tutorials)
