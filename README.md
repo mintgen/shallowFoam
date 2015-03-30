@@ -19,3 +19,4 @@ OpenFOAM-based solver for 2D shallow water equations
   - Works in parallel
   - Captures wet-dry fronts
   - Mesh should have a height of 1 m in z-direction (see tutorials)
+
