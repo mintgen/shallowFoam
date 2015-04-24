@@ -28,7 +28,7 @@ Application
 Description
     Transient solver for depth averaged shallow water equations.
 
-Author
+Authors
     KM-Turbulenz GmbH, 2009 (www.km-turbulenz.de)
     Florian Mintgen, 2012
 
