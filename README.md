@@ -2,8 +2,9 @@
 OpenFOAM-based solver for 2D shallow water equations
 
 Authors:
-KM-Turbulenz GmbH, 2009 (www.km-turbulenz.de)
+KM-Turbulenz GmbH (www.km-turbulenz.de), 2009
 Florian Mintgen, 2012
+
 
   - Solves the depth-averaged 2D shallow water equations:
 
