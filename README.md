@@ -1,6 +1,8 @@
 # shallowFoam
 OpenFOAM-based solver for 2D shallow water equations
 
+This branch has been tested under OpenFOAM-4.1, and should work for OpenFOAM-4.x in general. For foam-extend-3.1 see the master branch, which should work for foam-extend-3.x in general.
+
 Authors:
   - KM-Turbulenz GmbH (www.km-turbulenz.de), 2009
   - Florian Mintgen, 2012
