@@ -6,4 +6,4 @@ derivedFvPatchFields/dischargeFlowDepthOutlet/dischargeFlowDepthOutletFvPatchVec
 derivedFvPatchFields/flowRateInlet/flowRateInletFvPatchVectorField.C
 derivedFvPatchFields/timeVaryingFlowRateInlet/timeVaryingFlowRateInletFvPatchVectorField.C
 
-EXE = $(FOAM_APPBIN)/shallowFoam
+EXE = $(FOAM_USER_APPBIN)/shallowFoam
