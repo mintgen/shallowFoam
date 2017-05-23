@@ -35,9 +35,9 @@ const unallocLabelList& neighbour = mesh.neighbour();
 const vectorField& Sf = mesh.Sf();
 const scalarField& V = mesh.V();
 
-scalarField& gSpHi = gSpH.internalField();
-scalarField& gSpHfi = gSpHf.internalField();
-vectorField& gradgSpHfi = gradgSpHf.internalField();
+const scalarField& gSpHi = gSpH.internalField();
+const scalarField& gSpHfi = gSpHf.internalField();
+vectorField& gradgSpHfi = gradgSpHf.ref();
 
 forAll(owner, facei)
 {
