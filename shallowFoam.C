@@ -47,7 +47,7 @@ int main(int argc, char *argv[])
 #   include "createMesh.H"
 #   include "createFields.H"
 
-#   include "readTimeControls.H"
+#   include "createTimeControls.H"
 #   include "CourantNo.H"
 #   include "setInitialDeltaT.H"
 
